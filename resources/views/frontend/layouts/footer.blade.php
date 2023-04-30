@@ -57,4 +57,7 @@
     </div>
 </footer>
 <!--FOOTER ENDS-->
+</body>
 <script src="{{ url('assets/js/script.js') }}"></script>
+
+</html>
